@@ -12,3 +12,11 @@ In this chatbot we used:
 - Carousel Adaptive Cards to display flight details.
 - Variables in CS to store data.
 - Global Variables to pass values between topics in CS.
+
+
+In this step we are getting flights between given two cities.
+
+
+https://github.com/user-attachments/assets/962456d8-7e53-4f15-9c75-d609ade21e93
+
+
